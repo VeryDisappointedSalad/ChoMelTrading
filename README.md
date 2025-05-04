@@ -1,5 +1,4 @@
-# File structure
-
+## File structure
 - Backtesting implementation of my interpretation on predicted prices from LSTM
   - ├── `Backtest_non_percentage.py`
 - Notebook for running backtests and performance analysis
@@ -14,6 +13,7 @@
   - ├── `Plots.py`                      
 - PyTorch utilities and LSTM implementation
   - └── `PytorchHelp.py`                  
+Some backtesting results on plots are included.
 
 ## Backtesting includes
 - Configurable position sizing (fixed or growing)
