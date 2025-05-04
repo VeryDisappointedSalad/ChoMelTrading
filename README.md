@@ -12,7 +12,8 @@
 - Visualization functions
   - ├── `Plots.py`                      
 - PyTorch utilities and LSTM implementation
-  - └── `PytorchHelp.py`                  
+  - └── `PytorchHelp.py`
+                  
 Some backtesting results on plots are included.
 
 ## Backtesting includes
