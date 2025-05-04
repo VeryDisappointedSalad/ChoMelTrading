@@ -1,13 +1,12 @@
 # File structure
 
-.
-├── Backtest_non_percentage.py      # Backtesting implementation of my interpretation on predicted prices from LSTM
-├── Backtest.ipynb                  # Notebook for running backtests and performance analysis
-├── DataLoadHelperFunctions.py      # Data loading and preprocessing utilities
-├── LSTM.ipynb                      # Notebook for LSTM model training
-├── PerformanceMetrics.py           # Performance metrics calculation
-├── Plots.py                        # Visualization functions
-└── PytorchHelp.py                  # PyTorch utilities and LSTM implementation
+- ├── Backtest_non_percentage.py      # Backtesting implementation of my interpretation on predicted prices from LSTM
+- ├── Backtest.ipynb                  # Notebook for running backtests and performance analysis
+- ├── DataLoadHelperFunctions.py      # Data loading and preprocessing utilities
+- ├── LSTM.ipynb                      # Notebook for LSTM model training
+- ├── PerformanceMetrics.py           # Performance metrics calculation
+- ├── Plots.py                        # Visualization functions
+- └── PytorchHelp.py                  # PyTorch utilities and LSTM implementation
 
 ## Backtesting includes
 - Configurable position sizing (fixed or growing)
