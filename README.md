@@ -1,3 +1,5 @@
+![Test Image 1](PYPL Backtest Results.jpg)
+
 ## File structure
 - Backtesting implementation of my interpretation on predicted prices from LSTM
   - ├── `Backtest_non_percentage.py`
