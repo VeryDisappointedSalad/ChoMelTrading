@@ -1,4 +1,4 @@
-![Test Image 1](PYPL Backtest Results.jpg)
+![Backtest Results](PYPL%20Backtest%20Results.jpg)
 
 ## File structure
 - Backtesting implementation of my interpretation on predicted prices from LSTM
